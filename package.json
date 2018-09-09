@@ -1,0 +1,23 @@
+{
+  "name": "jstdd",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso JS com TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendellaraujo/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Wendell Junio <Wendell.jaraujo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wendellaraujo/js-tdd/issues"
+  },
+  "homepage": "https://github.com/wendellaraujo/js-tdd#readme"
+}
